@@ -36,7 +36,7 @@ function App() {
       titulo="Samy"
       descripcion="Samy tiene 2 años y no le gusta correr."
       colorTag="warning"
-      textoTag="Border Collie"
+      textoTag="Galgo"
       />
       </main>
       <Footer />
